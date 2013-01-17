@@ -12,6 +12,10 @@ http://api.bit.ly
 
 == USAGE:
 
+Require the gem:
+
+<tt>require 'bitly_oauth'</tt>
+
 Create a client using your client id and client secret from http://bit.ly
 
 <tt>client = BitlyOAuth.new(client_id, client_secret)</tt>
